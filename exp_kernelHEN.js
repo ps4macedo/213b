@@ -33768,7 +33768,7 @@ var _ = malloc_nogc.pop();
 
 if (main_ret == 179 || main_ret == 0) {
 	localStorage.passcount = ++localStorage.passcount;window.passCounter.innerHTML=localStorage.passcount;
-	window.msgs.innerHTML=<h1 style='font-size:25px;text-align:center;'><font color=\"#6089f6\">Exploit ✔ </font><font color=\"#ee596f\">HEN ... </font></h1>";
+	window.msgs.innerHTML="<h1 style='font-size:25px;text-align:center;'><font color=\"#6089f6\">Exploit ✔ </font><font color=\"#ee596f\">HEN ... </font></h1>";
     setTimeout(function(){
     plLoader();
     },1000);
